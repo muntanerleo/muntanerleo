@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @muntanerleo
 - 👀 I’m interested in combining computer science with other interdisciplinary topics like Medicine, AI, and Finance.
-- 🌱 I’m currently learning computer science at the University of Central Florida. 
-- 💞️ I’m looking to collaborate on anything related with Data Science and Software Development. 
+- 🌱 I currently work at Deloitte as a Data Scientist. 
 - 📫 How to reach me: www.linkedin.com/in/leonardo-muntaner-1a284096
 
 <!---
